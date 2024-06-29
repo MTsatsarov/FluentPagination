@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentPagination.Models", "FluentPagination.Models\FluentPagination.Models.csproj", "{7ADC1798-AA8E-4816-8F21-5F79D53034B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Analyzers", "Analyzers", "{59B928A1-4DF3-4CBE-9C9A-70D458FEC5BD}"
+	ProjectSection(SolutionItems) = preProject
+		.rulesets.xml = .rulesets.xml
+		stylecop.json = stylecop.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ADC1798-AA8E-4816-8F21-5F79D53034B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADC1798-AA8E-4816-8F21-5F79D53034B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADC1798-AA8E-4816-8F21-5F79D53034B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADC1798-AA8E-4816-8F21-5F79D53034B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
