@@ -1,5 +1,6 @@
 ﻿namespace FluentPagination.Models.Filters;
 
+using System.Reflection;
 using FluentPagination.Models.Enums;
 
 /// <summary>
@@ -7,9 +8,9 @@ using FluentPagination.Models.Enums;
 /// </summary>
 public class FluentFilterModel
 {
-    public string? RequestFilterProperty { get; set; }
+    public PropertyInfo Property { get; set; }
 
     public FilteringOperation FilteringOperation { get; set; }
 
-    public string? EntityProperty { get; set; }
+    public string Value { get; set; }
 }

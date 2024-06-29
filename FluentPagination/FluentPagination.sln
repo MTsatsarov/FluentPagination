@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Analyzers", "Analyzers", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{D39B2BD7-AA81-43F8-8CC1-A28297721C69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilteringService", "FilteringService\FilteringService.csproj", "{36C25588-8468-440E-9858-692835995625}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentPagination.Services", "FluentPagination.Services\FluentPagination.Services.csproj", "{FA7EA52D-0083-4045-A3BD-96EB0FB0BAAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,12 +22,12 @@ Global
 		{7ADC1798-AA8E-4816-8F21-5F79D53034B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7ADC1798-AA8E-4816-8F21-5F79D53034B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7ADC1798-AA8E-4816-8F21-5F79D53034B4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{36C25588-8468-440E-9858-692835995625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{36C25588-8468-440E-9858-692835995625}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{36C25588-8468-440E-9858-692835995625}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{36C25588-8468-440E-9858-692835995625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA7EA52D-0083-4045-A3BD-96EB0FB0BAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7EA52D-0083-4045-A3BD-96EB0FB0BAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7EA52D-0083-4045-A3BD-96EB0FB0BAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7EA52D-0083-4045-A3BD-96EB0FB0BAAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{36C25588-8468-440E-9858-692835995625} = {D39B2BD7-AA81-43F8-8CC1-A28297721C69}
+		{FA7EA52D-0083-4045-A3BD-96EB0FB0BAAB} = {D39B2BD7-AA81-43F8-8CC1-A28297721C69}
 	EndGlobalSection
 EndGlobal
